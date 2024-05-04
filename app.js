@@ -1,3 +1,3 @@
-for ( var gogi = 1; gogi <=100; gogi+=2) {
-    document.write(gogi);
+for ( var kenti = 1; kenti <=100; kenti+=2) {
+    document.write(kenti + "<br>");
 }
